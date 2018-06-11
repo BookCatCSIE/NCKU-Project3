@@ -1,0 +1,12 @@
+<RCC>
+	<qresource prefix="/">
+		<file>res/kirito1.png</file>
+		<file>res/black_sword.png</file>
+		<file>res/green_sword.png</file>
+		<file>res/two_sword.png</file>
+		<file>res/boss1.png</file>
+		<file>res/weapon1.png</file>
+		<file>res/weapon2.png</file>
+		<file>res/golden_sword.png</file>
+	</qresource>
+</RCC>
